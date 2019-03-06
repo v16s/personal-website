@@ -17,14 +17,17 @@
 .masthead .ui.menu .ui.button {
   margin-left: 0.5em;
 }
+
 .masthead .ui.text.container {
   margin-bottom: 2em;
 }
+
 .ui.vertical.center.aligned.segment {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
+
 .masthead h1.ui.header {
   margin-bottom: 0;
   font-size: 4em;
@@ -38,12 +41,15 @@
   font-weight: 200 !important;
   font-family: 'Share Tech Mono', monospace !important;
 }
+
 .masthead h2 > a {
   color: #fff !important;
 }
+
 .masthead h2 > a:hover {
   text-decoration: underline;
 }
+
 .ui.vertical.stripe {
   padding: 8em 0;
 }
@@ -105,10 +111,12 @@
     font-size: 1.5em;
   }
 }
+
 .ui.segment.pushable {
   border: none;
   border-radius: 0;
 }
+
 /* Code blocks (Fix a strange bug with prismjs) */
 pre {
   padding: 1em !important;

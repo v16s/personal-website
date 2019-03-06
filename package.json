@@ -24,6 +24,7 @@
     "codeclimate": "codeclimate-test-reporter < coverage/lcov.info"
   },
   "dependencies": {
+    "@nielse63/webgl-cubes": "^1.0.5",
     "@types/lodash": "^4.14.116",
     "@types/reach__router": "^1.0.1",
     "@types/react": "^16.0.20",
@@ -68,7 +69,6 @@
     "typescript": "^2.8.0"
   },
   "devDependencies": {
-    "@nielse63/webgl-cubes": "^1.0.5",
     "@storybook/addon-actions": "^3.2.14",
     "@storybook/addon-knobs": "^3.2.14",
     "@storybook/addon-notes": "^3.2.10",
