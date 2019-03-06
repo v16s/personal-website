@@ -1,4 +1,4 @@
-@import url(./fonts/jost.css);
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono|Titillium+Web');
 
 .hidden.menu {
   display: none;
@@ -29,14 +29,14 @@
   margin-bottom: 0;
   font-size: 4em;
   font-weight: normal;
-
-  font-family: 'Jost' !important;
+  letter-spacing: 1px !important;
+  font-family: 'Titillium Web' !important;
 }
 
 .masthead h2 {
   font-size: 1.2em !important;
   font-weight: 200 !important;
-  font-family: monospace !important;
+  font-family: 'Share Tech Mono', monospace !important;
 }
 .masthead h2 > a {
   color: #fff !important;
